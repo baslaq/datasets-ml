@@ -1,27 +1,8 @@
-categoria,hospital,provincia,canton,distrito,latitud,longitud,laboratorio,poblacion
-Nacional,Hospital San Juan de Dios,San Jose,San Jose,Hospital,9.9336,-84.0861,,
-Nacional,Hospital Mexico,San Jose,San Jose,La Uruca,9.9524,-84.1154,,
-Nacional,Hospital Dr. Rafael Angel Calderon Guardia,San Jose,San Jose,Carmen,9.9355,-84.0683,,
-Nacional,Hospital Nacional de Niños,San Jose,San Jose,Merced,9.9317,-84.0907,,
-Nacional,Centro Nacional de Rehabilitacion (CENARE),San Jose,San Jose,San Jose,9.937,-84.0812,,
-Regional,Hospital Maximiliano Peralta Jimenez,Cartago,Central,Occidental,9.8645,-83.9194,,
-Regional,Hospital San Vicente de Paul,Heredia,Central,Mercedes,9.9981,-84.1175,,
-Regional,Hospital San Rafael,Alajuela,Central,San Jose,10.0169,-84.2141,,
-Regional,Hospital Enrique Baltodano Briceño,Guanacaste,Liberia,Liberia,10.6346,-85.4400,,
-Regional,Hospital Fernando Escalante Pradilla,San Jose,Perez Zeledon,San Isidro de El General,9.3726,-83.7034,,
-Regional,Hospital San Carlos,Alajuela,San Carlos,Quesada,10.3237,-84.4271,,
-Regional,Hospital Tony Facio Castro,Limon,Limon,Limon,9.9912,-83.0315,,
-Regional,Hospital Victor Manuel Sanabria Martinez,Puntarenas,Central,Chacarita,9.9701,-84.8295,,
-Periferico,Hospital Ciudad Neily,Puntarenas,Corredores,Ciudad Neily,8.645,-82.9396,,
-Periferico,Hospital San Vito,Puntarenas,Coto Brus,San Vito,8.8205,-82.9641,,
-Periferico,Hospital Max Teran Valls,Puntarenas,Quepos,Quepos,9.4305,-84.1615,,
-Periferico,Hospital Manuel Mora Valverde,Puntarenas,Golfito,Golfito,8.6037,-83.1144,,
-Periferico,Hospital Tomas Casas Casajus,Puntarenas,Osa,Cortes,8.5401,-83.3327,,
-Periferico,Hospital La Anexion,Guanacaste,Nicoya,Nicoya,10.1443,-85.4521,,
-Periferico,Hospital Los Chiles,Alajuela,Los Chiles,Los Chiles,11.0337,-84.7118,,
-Periferico,Hospital Upala,Alajuela,Upala,Upala,10.9005,-85.0204,,
-Periferico,Hospital Platanares,San Jose,Moravia,San Vicente,9.9611,-84.0506,,
-Periferico,Hospital de Niñas/os Guadalupe,San Jose,Goicoechea,Guadalupe,9.9486,-84.0592,,
-Periferico,Hospital de la Mujer (Adolfo Carit Eva),San Jose,San Jose,Catedral,9.9314,-84.0795,,
-Periferico,Hospital Psiquiatrico Manuel Antonio Chapui y Torres,San Jose,San Jose,Pavas,9.9546,-84.1385,,
-Periferico,Hospital William Allen Taylor,Cartago,Turrialba,Turrialba,9.9046,-83.6839,,
+categoria,hospital,provincia,canton,distrito,latitud,longitud,Pruebas,poblacion
+Nacional,Hospital San Juan de Dios,San Jose,San Jose,Hospital,9.9336,-84.0861,41818,131929
+Regional,Hospital Maximiliano Peralta Jimenez,Cartago,Central,Occidental,9.8645,-83.9194,54073,170588
+Regional,Hospital San Vicente de Paul,Heredia,Central,Mercedes,9.9981,-84.1175,26510,83633
+Regional,Hospital San Rafael,Alajuela,Central,San Jose,10.0169,-84.2141,58914,185862
+Regional,Hospital Enrique Baltodano Briceño,Guanacaste,Liberia,Liberia,10.6346,-85.44,15940,50286
+Regional,Hospital Fernando Escalante Pradilla,San Jose,Perez Zeledon,San Isidro de El General,9.3726,-83.7034,2580,8138
+Regional,Hospital Victor Manuel Sanabria Martinez,Puntarenas,Central,Chacarita,9.9701,-84.8295,4234,13358
